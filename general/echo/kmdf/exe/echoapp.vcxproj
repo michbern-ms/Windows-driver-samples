@@ -17,6 +17,7 @@
       <Configuration>Release</Configuration>
       <Platform>x64</Platform>
     </ProjectConfiguration>
+    
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{4500713F-105B-4F35-9FC9-85D30E7C3F2D}</ProjectGuid>
